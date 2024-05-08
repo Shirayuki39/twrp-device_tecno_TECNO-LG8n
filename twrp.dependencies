@@ -1,8 +1,0 @@
-[
-  {
-     "remote": "Shirayuki39",
-     "repository": "twrp-device_transsion_mt6789-common",
-     "target_path": "device/transsion/mt6789-common",
-     "branch": "fox_12.1"
-  }
-]
