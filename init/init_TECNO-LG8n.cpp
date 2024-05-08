@@ -28,8 +28,8 @@ void vendor_load_properties()
         property_override(string("ro.product.") + prop + string("name"), "LG8n-GL");
         property_override(string("ro.product.") + prop + string("device"), "TECNO-LG8n");
         property_override(string("ro.product.") + prop + string("model"), "TECNO LG8n");
-        property_override(string("ro.product.") + prop + string("marketname"), "TECNO POVA 4 PRO");
-        property_override(string("ro.product.system.") + prop + string("device"), "TECNO POVA 4 PRO");
+        property_override(string("ro.product.") + prop + string("marketname"), "TECNO POVA 4 Pro");
+        property_override(string("ro.product.system.") + prop + string("device"), "TECNO POVA 4 Pro");
     }
     property_override("ro.bootimage.build.date.utc", "1609430400");
     property_override("ro.build.date.utc", "1609430400");
